@@ -4,7 +4,7 @@ body{
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(green,pink,blue,red);
+    background: linear-gradient(to bottom left, green,rgb(223, 13, 192),blue,red);
 }
 .container {
     width: 300px;
